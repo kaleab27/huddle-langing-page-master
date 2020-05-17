@@ -82,7 +82,7 @@ body{
         background-image: url(images/bg-desktop.svg);
     }
     .logo_wrapper{
-        margin-left: 60px;
+        margin: 60px;
     }
     .logo{
         height: 60px;
