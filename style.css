@@ -95,6 +95,7 @@ body{
     }
     .wrapper{
         margin: 60px;
+        margin-bottom: 0px;
         display: grid;
         grid-template-columns: 55% auto;
     }
