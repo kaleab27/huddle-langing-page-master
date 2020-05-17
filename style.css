@@ -70,8 +70,8 @@ body{
 .btn{
     color: hsl(257, 40%, 49%);
     background-color: white;
-    height: 40px;
-    width: 180px;
+    height: 50px;
+    width: 200px;
     border-radius: 50px;
     border: none;
     box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, .1);
@@ -95,6 +95,7 @@ body{
     }
     .content_wrapper{
         margin: 40px;
+        margin-top: 60px;
         text-align: left;
         align-self: start;
     }
