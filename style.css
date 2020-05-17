@@ -37,9 +37,12 @@ body{
 .heading_wrapper{
     font-family: 'Poppins', sans-serif;
 }
+.heading{
+    font-size: 40px;
+}
 .social_media_wrapper{
     height: 30px;
-    margin-top: 80px;
+    margin-top: 40px;
     text-align: center;
 }
 .fab{
@@ -72,6 +75,7 @@ body{
     background-color: white;
     height: 50px;
     width: 200px;
+    font-size: 18px;
     border-radius: 50px;
     border: none;
     box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, .1);
@@ -83,9 +87,10 @@ body{
     }
     .logo_wrapper{
         margin: 60px;
+        margin-top: 45px;
     }
     .logo{
-        height: 60px;
+        height: 70px;
         width: 180px;
     }
     .wrapper{
