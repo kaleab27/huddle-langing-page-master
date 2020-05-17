@@ -89,7 +89,7 @@ body{
         width: 180px;
     }
     .wrapper{
-        margin-left: 60px;
+        margin: 60px;
         display: grid;
         grid-template-columns: 55% auto;
     }
